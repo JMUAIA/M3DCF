@@ -4,7 +4,7 @@ In this project, we design a new strategy called M3DCF that acts as a more eﬀe
 
 For more details, this method was initially described in our paper ***Multi-scale Convolutional Neural Network Based on 3D Context Fusion for Lesion Detection***.
 
-As shown in our GitHub, we released our model first, and the rest will follow.The model of our algorithm is available on BaiduYun.
+As shown in our GitHub, we released our model first, and the rest will follow. Our algorithm designed on the framework of darknet, and the model of which is available on BaiduYun.
 
 Link: https://pan.baidu.com/s/1dIiLGrG6un5HJlNNxma3vg 
 Code: 4usk 
